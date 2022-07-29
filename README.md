@@ -8,3 +8,7 @@ Thanks, [*mhartel*](http://twitter.com/learnenough) for the awesome tutorials!
 
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+
+My Learn Enough Certificates:
+
+<a href="https://www.learnenough.com/certificates/ediggy25"><img src="https://www.learnenough.com/certificates/ediggy25/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/ediggy25"><img src="https://www.learnenough.com/certificates/ediggy25/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
